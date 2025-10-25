@@ -1,0 +1,10 @@
+# Neon palette & helpers
+DARK_BG = (6, 8, 12)
+NEON_CYAN = (0, 255, 240)   # #00fff0
+NEON_PINK = (255, 102, 204) # #ff66cc
+NEON_YELLOW = (255, 238, 51) # #ffee33
+WHITE = (240, 240, 240)
+GLASS = (255, 255, 255, 32)
+HUD_TEXT = (210, 230, 230)
+
+PALETTE = [NEON_CYAN, NEON_PINK, NEON_YELLOW]
